@@ -21,6 +21,11 @@ Specific Technical Objectives: - Chunda Luchembe
     meaningful features from parliamentary text documents for accurate classification 
     3. Create automated pipeline for new ruling classification
 
+        Technical Success Metrics: - Chikondi Banda 
+* Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories 
+* Precision: Maintain precision above 75% for each individual category to ensure reliable 
+categorization 
+* F1-Score: Target F1-score above 77% for balanced precision-recall performance
 
 ## 3. Project Success Criteria
 Quantitative Criteria: - Chunda Luchembe 
