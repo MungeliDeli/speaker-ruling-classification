@@ -23,10 +23,11 @@ professionals, researchers, and public understanding.
 
 3. **Create an Automated Classification Pipeline:**  
    Design and deploy a workflow that processes new Speaker's Rulings and assigns categories in real-time or batch mode.
-**Technical Success Metrics**
 
-* Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories  
-* Precision: Maintain precision above 75% for each individual category to ensure reliable sategorization  
+# Technical Success Metrics 
+* Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories 
+* Precision: Maintain precision above 75% for each individual category to ensure reliable 
+categorization 
 * F1-Score: Target F1-score above 77% for balanced precision-recall performance
 ## 3. Project Success Criteria
 **Quantitative Criteria**  
