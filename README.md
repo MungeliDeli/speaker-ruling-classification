@@ -11,7 +11,10 @@ This project aims to develop an automated text classification system to categori
 
 
 ## 3. Project Success Criteria
-
+i.Reduce time spent by legal professionals searching for relevant rulings by at least 60% 
+ii.Enable non-experts to find and understand parliamentary rulings relevant to their interests  
+iii.Provide parliamentary staff with consistent categorization for improved procedural reference 
+iv.Support academic and policy research through structured access to historical ruling patterns
 
 ## 4. Project Scope
 
