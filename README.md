@@ -23,7 +23,6 @@ professionals, researchers, and public understanding.
 
 3. Create automated pipeline for new ruling classification.
 
-
 ## 3. Project Success Criteria
 **Quantitative Criteria**  
 1. **Model Performance:** Overall classification accuracy ≥ 80%
