@@ -37,6 +37,7 @@ categorization
 **Quantitative Criteria**  
 1. **Model Performance:** Overall classification accuracy ≥ 80%
 2. **Processing Speed:** System should classify new documents within 5 seconds
+   
 **Business Impact Measures:**
 - Reduction in manual categorization time
 - Increased usage of parliamentary information by researchers and citizens 
