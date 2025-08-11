@@ -21,8 +21,7 @@ professionals, researchers, and public understanding.
 2. **Implement Natural Language Processing (NLP):**  
    Apply text mining techniques to extract meaningful features from parliamentary text documents, enabling accurate classification.
 
-3. **Create an Automated Classification Pipeline:**  
-   Design and deploy a workflow that processes new Speaker's Rulings and assigns categories in real-time or batch mode.
+3. Create automated pipeline for new ruling classification 
 
 
 ## 3. Project Success Criteria
