@@ -27,7 +27,7 @@ professionals, researchers, and public understanding.
    Apply text mining techniques to extract meaningful features from parliamentary text documents, enabling accurate classification.
 
 3. Create automated pipeline for new ruling classification.
-# Technical Success Metrics 
+**Technical Success Metrics** 
 * Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories 
 * Precision: Maintain precision above 75% for each individual category to ensure reliable 
 categorization 
