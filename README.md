@@ -21,7 +21,7 @@ Specific Technical Objectives: - Chunda Luchembe
     meaningful features from parliamentary text documents for accurate classification 
     3. Create automated pipeline for new ruling classification
 
-        Technical Success Metrics: - Chikondi Banda 
+Technical Success Metrics: - Chikondi Banda 
 * Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories 
 * Precision: Maintain precision above 75% for each individual category to ensure reliable 
 categorization 
