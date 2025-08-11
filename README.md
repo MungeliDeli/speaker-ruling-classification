@@ -14,18 +14,21 @@ professionals, researchers, and public understanding.
 
 
 ## 2. Data Mining Goals
-Specific Technical Objectives: - Chunda Luchembe 
-    1. Build a Multi-class Classification Model: Develop a machine learning system that can 
-    automatically categorize Speaker's Rulings into predefined categories. 
-    2. Implement Natural Language Processing: Apply text mining techniques to extract 
-    meaningful features from parliamentary text documents for accurate classification 
-    3. Create automated pipeline for new ruling classification
+**Specific Technical Objectives**  
+1. **Build a Multi-class Classification Model:**  
+   Develop a machine learning system that automatically categorizes Speaker's Rulings into predefined categories.
+
+2. **Implement Natural Language Processing (NLP):**  
+   Apply text mining techniques to extract meaningful features from parliamentary text documents, enabling accurate classification.
+
+3. **Create an Automated Classification Pipeline:**  
+   Design and deploy a workflow that processes new Speaker's Rulings and assigns categories in real-time or batch mode.
 
 
 ## 3. Project Success Criteria
-Quantitative Criteria: - Chunda Luchembe 
-    1. Model Performance: Overall classification accuracy ≥ 80% 
-    2. Processing Speed: System should classify new documents within 5 seconds 
+**Quantitative Criteria**  
+1. **Model Performance:** Overall classification accuracy ≥ 80%
+2. **Processing Speed:** System should classify new documents within 5 seconds
 Business Impact Measures: - Jospeh likando 
 • Reduction in manual categorization time 
 • Increased usage of parliamentary information by researchers and citizens 
