@@ -12,6 +12,11 @@ evaluate
 2. Organize speakers' rulings to improve accessibility and quick retrieval for legal 
 professionals, researchers, and public understanding.  
 
+### Success Criteria from Business Perspective:  
+- Reduce time spent by legal professionals searching for relevant rulings by at least 60% 
+- Enable non-experts to find and understand parliamentary rulings relevant to their interests 
+- Provide parliamentary staff with consistent categorization for improved procedural reference 
+- Support academic and policy research through structured access to historical ruling patterns 
 
 ## 2. Data Mining Goals
 **Specific Technical Objectives**  
@@ -37,7 +42,15 @@ Business Impact Measures: - Jospeh likando
 
 
 ## 4. Project Scope
-
+### In Scope:  
+- Speaker's Rulings from National Assembly of Zambia proceedings 
+- Text-based classification using parliamentary Hansards and official records 
+- English language processing 
+### Out of Scope:  
+- Rulings from other parliamentary bodies or courts 
+- Non-English parliamentary proceedings  
+- Real-time audio/video processing of parliamentary sessions 
+- Legal advice or interpretation of ruling implications
 
 
 
