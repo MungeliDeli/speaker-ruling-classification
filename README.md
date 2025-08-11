@@ -19,7 +19,7 @@ professionals, researchers, and public understanding.
 - Support academic and policy research through structured access to historical ruling patterns 
 
 ## 2. Data Mining Goals
-**Specific Technical Objectives**  
+### Specific Technical Objectives
 1. **Build a Multi-class Classification Model:**  
    Develop a machine learning system that automatically categorizes Speaker's Rulings into predefined categories.
 
@@ -34,7 +34,7 @@ professionals, researchers, and public understanding.
 categorization 
 * F1-Score: Target F1-score above 77% for balanced precision-recall performance
 ## 3. Project Success Criteria
-### Quantitative Criteria ### 
+### Quantitative Criteria
 1. **Model Performance:** Overall classification accuracy ≥ 80%
 2. **Processing Speed:** System should classify new documents within 5 seconds
    
