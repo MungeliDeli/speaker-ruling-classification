@@ -23,7 +23,7 @@ professionals, researchers, and public understanding.
 * Reduction in manual categorization time
 * Increased usage of parliamentary information by researchers and citizens
 * Improved consistency in referencing past rulings by parliamentary staff
-* Enhanced accessibility of legal and legislative information for civic education
+* Enhanced accessibility of legal and legislative information for civic educationn
 
 
 ## 4. Project Scope
