@@ -6,7 +6,7 @@ This project aims to develop an automated text classification system to categori
 
 ## 1. Business Understanding
 
-## *Primary Objectives:*  
+ **Primary Objectives:** 
 1. To classify parliamentary rulings into a structured system that is simpler to analyze and 
 evaluate  
 2. Organize speakers' rulings to improve accessibility and quick retrieval for legal 
@@ -19,7 +19,7 @@ professionals, researchers, and public understanding.
 
 
 
-### **Business Impact Measures:**
+**Business Impact Measures:**
 * Reduction in manual categorization time
 * Increased usage of parliamentary information by researchers and citizens
 * Improved consistency in referencing past rulings by parliamentary staff
