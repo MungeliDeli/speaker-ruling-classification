@@ -8,14 +8,14 @@ This project aims to develop an automated text classification system to categori
 # Business Understanding
 
 ## Problem Statement 
-The National Assembly of Zambia generates substantial volumes of parliamentary proceedings containing Speaker's Rulings on various procedural, disciplinary, and administrative matters. Currently, accessing and categorizing these rulings for legal research, parliamentary reference, and civic education requires extensive manual effort. Legal professionals, researchers, parliamentary staff, and citizens face significant challenges in efficiently locating relevant precedents and understanding patterns in parliamentary decision making.
+The National Assembly of Zambia generates substantial volumes of parliamentary proceedings containing Speaker's Rulings on various procedural, disciplinary, and administrative matters. Currently, accessing and categorizing these rulings for legal research, parliamentary reference, and civic education requires extensive manual effort. Legal professionals, researchers, parliamentary staff, and citizens face significant challenges in efficiently locating relevant precedents and understanding patterns in parliamentary decision making
 ### Core Problem: 
-There is no automated system to classify and categorize Speaker's Rulings from Zambian parliamentary proceedings, making legal and legislative information retrieval inefficient and limiting effective civic education and parliamentary research.
+There is no automated system to classify and categorize Speaker's Rulings from Zambian parliamentary proceedings, making legal and legislative information retrieval inefficient and limiting effective civic education and parliamentary research
 
 ## 1. Business Objectives
 ### Primary Objectives: 
 1. To classify parliamentary rulings into a structured system that is simpler to analyze and 
-evaluate  
+evaluate. 
 2. Organize speakers' rulings to improve accessibility and quick retrieval for legal 
 professionals, researchers, and public understanding.  
 
