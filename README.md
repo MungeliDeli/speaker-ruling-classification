@@ -41,9 +41,10 @@ professionals, researchers, and public understanding.
 3. Create automated pipeline for new ruling classification.
 
 ### Technical Success Metrics 
-* Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories 
-* Precision: Maintain precision above 75% for each individual category to ensure reliable.
-categorization 
+* Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories. 
+* Precision: Maintain precision above 75% for each individual category to ensure reliable 
+categorization .
+
 * F1-Score: Target F1-score above 77% for balanced precision-recall performance.
 ## 3. Project Success Criteria
 ### Quantitative Criteria
