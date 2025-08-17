@@ -60,7 +60,7 @@ categorization
 ## 4. Project Scope
 ### In Scope:  
 - Speaker's Rulings from National Assembly of Zambia proceedings 
-- Text-based classification using parliamentary Hansards and official records 
+- Text-based classification using parliamentary Hansards and official records.
 - English language processing 
 ### Out of Scope:  
 - Rulings from other parliamentary bodies or courts 
