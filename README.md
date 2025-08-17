@@ -42,12 +42,12 @@ professionals, researchers, and public understanding.
 
 ### Technical Success Metrics 
 * Accuracy: Achieve at least 80% overall classification accuracy across all ruling categories 
-* Precision: Maintain precision above 75% for each individual category to ensure reliable 
+* Precision: Maintain precision above 75% for each individual category to ensure reliable.
 categorization 
-* F1-Score: Target F1-score above 77% for balanced precision-recall performance
+* F1-Score: Target F1-score above 77% for balanced precision-recall performance.
 ## 3. Project Success Criteria
 ### Quantitative Criteria
-1. **Model Performance:** Overall classification accuracy ≥ 80%
+1. **Model Performance:** Overall classification accuracy ≥ 80%.
 2. **Processing Speed:** System should classify new documents within 5 seconds
    
 ### Business Impact Measures:
