@@ -20,10 +20,10 @@ evaluate
 professionals, researchers, and public understanding.  
 
 ### Success Criteria from Business Perspective:  
-- Reduce time spent by legal professionals searching for relevant rulings by at least 60% 
-- Enable non-experts to find and understand parliamentary rulings relevant to their interests 
-- Provide parliamentary staff with consistent categorization for improved procedural reference 
-- Support academic and policy research through structured access to historical ruling patterns 
+- Reduce time spent by legal professionals searching for relevant rulings by at least 60%. 
+- Enable non-experts to find and understand parliamentary rulings relevant to their interests.
+- Provide parliamentary staff with consistent categorization for improved procedural reference.
+- Support academic and policy research through structured access to historical ruling patterns.
 
 ## 2. Data Mining Goals
 ### Specific Technical Objectives
